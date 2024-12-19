@@ -58,7 +58,7 @@ const JobPage = () => {
           <FaArrowLeft className="mr-2 text-2xl text-gray-600" />
           <Link
             to="/jobs"
-            className="text-indigo-600 text-xl transform transition-all duration-300 hover:ml-2 focus:out-of-range:"
+            className="text-indigo-600 text-xl transform transition-all duration-300 hover:ml-2 focus:out-of-range: "
           >
             Back to Job Listings
           </Link>

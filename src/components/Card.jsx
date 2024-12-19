@@ -18,7 +18,7 @@ const Card = ({
         </div>
         <div className="mt-4">
           <a
-            href="/jobs"
+            href={`${title === "For Developers" ? `/jobs` : `/add`}`}
             className={`inline-block px-4 py-2 rounded-md text-white ${btncolor} hover:bg-opacity-80 transform transition-all hover:shadow-lg hover:scale-110`}
           >
             {button}
