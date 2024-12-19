@@ -1,0 +1,116 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "status": "Full-Time",
+      "title": "React Developer",
+      "desc": "As a React Developer, you will be responsible for developing and maintaining modern, responsive web applications using React.js. Your role will involve building reusable components, optimizing application performance, and collaborating with cross-functional teams, including designers and backend developers, to deliver high-quality products. You will also stay up-to-date with the latest React.js features and best practices to ensure efficient and scalable development.",
+      "salary": "$70,000 - $90,000",
+      "location": "San Francisco, CA"
+    },
+    {
+      "id": 2,
+      "status": "Part-Time",
+      "title": "UI/UX Designer",
+      "desc": "As a UI/UX Designer, you will create intuitive and visually appealing user interfaces for web applications. You will conduct user research, design wireframes and prototypes, and collaborate with developers to ensure seamless implementation. Your role will also include improving the user experience by analyzing user behavior, addressing feedback, and ensuring accessibility and responsiveness across devices.",
+      "salary": "$50,000 - $65,000",
+      "location": "Remote"
+    },
+    {
+      "id": 3,
+      "status": "Contract",
+      "title": "Node.js Developer",
+      "desc": "As a Node.js Developer, you will design and build scalable backend services and APIs for high-performance applications. Your responsibilities include integrating third-party services, managing database interactions, and ensuring the security and reliability of the system. You will collaborate closely with frontend developers and contribute to system architecture to deliver seamless user experiences.",
+      "salary": "$80,000 - $100,000",
+      "location": "New York, NY"
+    },
+    {
+      "id": 4,
+      "status": "Full-Time",
+      "title": "Frontend Developer",
+      "desc": "As a Frontend Developer, you will implement interactive and visually engaging web interfaces using HTML, CSS, and JavaScript. You will work closely with designers to translate mockups into functional and pixel-perfect web pages. Your role will also involve ensuring cross-browser compatibility, optimizing website performance, and keeping up with the latest frontend technologies.",
+      "salary": "$60,000 - $80,000",
+      "location": "Austin, TX"
+    },
+    {
+      "id": 5,
+      "status": "Part-Time",
+      "title": "Content Writer",
+      "desc": "As a Content Writer, you will craft engaging and high-quality content for blogs, websites, and marketing materials. Your responsibilities include conducting research, creating original articles, and ensuring content aligns with the target audience and brand voice. You will collaborate with the marketing team to optimize content for SEO and develop strategies to improve online visibility.",
+      "salary": "$30,000 - $45,000",
+      "location": "Remote"
+    },
+    {
+      "id": 6,
+      "status": "Contract",
+      "title": "Python Developer",
+      "desc": "As a Python Developer, you will work on building data processing pipelines, APIs, and backend services. Your role includes implementing algorithms, integrating with databases, and ensuring code quality through testing and debugging. You will also collaborate with data scientists and other developers to solve complex problems and deliver scalable solutions.",
+      "salary": "$75,000 - $95,000",
+      "location": "Seattle, WA"
+    },
+    {
+      "id": 7,
+      "status": "Full-Time",
+      "title": "DevOps Engineer",
+      "desc": "As a DevOps Engineer, you will be responsible for maintaining and automating CI/CD pipelines for cloud applications. You will manage infrastructure as code, monitor system performance, and ensure the reliability and security of deployed applications. Your role will also involve troubleshooting deployment issues, optimizing resource usage, and supporting development teams in building scalable systems.",
+      "salary": "$90,000 - $120,000",
+      "location": "Boston, MA"
+    },
+    {
+      "id": 8,
+      "status": "Part-Time",
+      "title": "Digital Marketing Specialist",
+      "desc": "As a Digital Marketing Specialist, you will plan and execute digital campaigns across multiple channels, including social media, email marketing, and search engine advertising. Your responsibilities include analyzing campaign performance, optimizing content for better engagement, and staying up-to-date with the latest trends in digital marketing. You will collaborate with the content team to ensure consistent branding and messaging.",
+      "salary": "$40,000 - $60,000",
+      "location": "Remote"
+    },
+    {
+      "id": 9,
+      "status": "Contract",
+      "title": "Data Scientist",
+      "desc": "As a Data Scientist, you will analyze complex datasets to extract valuable insights and build predictive models. Your role includes designing experiments, implementing machine learning algorithms, and visualizing data to support decision-making. You will collaborate with cross-functional teams to solve business problems and improve operational efficiency using data-driven approaches.",
+      "salary": "$100,000 - $130,000",
+      "location": "Chicago, IL"
+    },
+    {
+      "id": 10,
+      "status": "Full-Time",
+      "title": "Project Manager",
+      "desc": "As a Project Manager, you will oversee the planning, execution, and delivery of projects from start to finish. Your responsibilities include managing budgets, coordinating teams, and ensuring projects are completed on time and within scope. You will also identify risks, resolve conflicts, and communicate progress to stakeholders while driving project success.",
+      "salary": "$85,000 - $110,000",
+      "location": "Denver, CO"
+    },
+    {
+      "id": 11,
+      "status": "Part-Time",
+      "title": "Graphic Designer",
+      "desc": "As a Graphic Designer, you will create visual content for marketing and branding purposes, including logos, banners, and promotional materials. You will collaborate with clients and teams to understand design requirements, produce high-quality visuals, and ensure consistency with brand guidelines. Your role will also involve staying updated with design trends and software tools.",
+      "salary": "$35,000 - $50,000",
+      "location": "Remote"
+    },
+    {
+      "id": 12,
+      "status": "Contract",
+      "title": "Cybersecurity Analyst",
+      "desc": "As a Cybersecurity Analyst, you will monitor and secure systems against potential threats. Your responsibilities include identifying vulnerabilities, implementing security measures, and responding to incidents. You will also conduct risk assessments, stay updated with the latest security practices, and ensure compliance with industry standards.",
+      "salary": "$90,000 - $115,000",
+      "location": "Washington, DC"
+    },
+    {
+      "id": 13,
+      "status": "Full-Time",
+      "title": "Mobile App Developer",
+      "desc": "As a Mobile App Developer, you will design and develop cross-platform mobile applications using frameworks like React Native. Your role includes collaborating with designers and backend developers, ensuring smooth app functionality, and optimizing performance. You will also troubleshoot issues, stay updated with the latest mobile development trends, and deliver user-friendly applications.",
+      "salary": "$80,000 - $100,000",
+      "location": "Los Angeles, CA"
+    },
+    {
+      "id": 13,
+      "status": "Part-Time",
+      "title": "Nam quam qui quis ad",
+      "desc": "Alias consequatur q",
+      "salary": "$100K - 125K",
+      "location": "Et sit temporibus f"
+    }
+  ]
+}
